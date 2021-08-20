@@ -4,7 +4,6 @@
 **gargmitul28/gargmitul28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-[![leetcode badge](https://img.shields.io/badge/mitul_garg28-30302f?style=flat&logo=leetcode)](https://leetcode.com/mitul_garg28)
 [![hackerrank badge](https://img.shields.io/badge/Mitulgarg28-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/Mitulgarg28)
 ![](https://komarev.com/ghpvc/?username=gargmitul28) 
 
