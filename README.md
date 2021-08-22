@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <summary><b>⚡ Github Stats</b></summary>
 <details open>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gargmitul28&show_icons=true" />
+![Mitul's github stats](https://github-readme-stats.vercel.app/api?username=GARGMITUL28&show_icons=true&hide_border=true&hide=["stars"])
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargmitul28&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   </details>
 
