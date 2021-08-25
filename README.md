@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargmitul28&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   </details>
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargmitul28&layout=compact" />
-</p>
+<summary><b>☄️ Github Streaks</b></summary>
+<details open>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargmitul28&layout=compact" />
+</details>
+<br>
 
 ## 🛠 Tech Stack
 <!-- BLOG-POST-LIST:START -->
