@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   </details>
 
 <summary><b>☄️ Github Streaks</b></summary>
-<details open>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargmitul28&layout=compact" />
-</details>>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargmitul28&layout=compact" />
+</p>
 
 ## 🛠 Tech Stack
 <!-- BLOG-POST-LIST:START -->
