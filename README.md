@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <summary><b>☄️ Github Streaks</b></summary>
 <details open>
-<img src="" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargmitul28&hide_border=true" />
 </details>
 <br>
 
