@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ## 🧐 About
 - 🧑 I'm a competitive programmer and a developer.
 - 🔭 I’m currently working on Android and React Projects.
-- 🌱 I’m currently learning DSA and Firebase.
+- 🌱 I’m currently learning DSA.
 - 👯 I’m looking to build some Real Life projects in collaboration.
 - 📫 How to reach me: garg.mitul28@gmail.com
 - 💬 Ask me about React & Open Source
