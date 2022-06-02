@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <details open>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gargmitul28&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargmitul28&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180cm" src="https://activity-graph.herokuapp.com/graph?username=gargmitul28&bg_color=312e81&color=f97316&line=10b981&point=f97316&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
   </details>
 
 <summary><b>☄️ Github Streaks</b></summary>
