@@ -3,10 +3,6 @@
 Web Developer
 -------------
 
-<!--
-**gargmitul28/gargmitul28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargmitul28" /> </p>
 
