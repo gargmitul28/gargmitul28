@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <details open>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gargmitul28&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargmitul28&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-<img height="180cm" src="https://activity-graph.herokuapp.com/graph?username=gargmitul28&bg_color=312e81&color=f97316&line=10b981&point=f97316&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
+<img height="250cm" src="https://activity-graph.herokuapp.com/graph?username=gargmitul28&bg_color=312e81&color=f97316&line=10b981&point=f97316&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
   </details>
 
 <summary><b>☄️ Github Streaks</b></summary>
@@ -66,5 +66,4 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/garg_mitul_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="http://www.github.com/gargmitul28"><img src="https://activity-graph.herokuapp.com/graph?username=gargmitul28&bg_color=312e81&color=f97316&line=10b981&point=f97316&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div> 
