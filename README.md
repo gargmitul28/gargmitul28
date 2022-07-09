@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"  height="50px"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"  height="36px"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"  height="36px"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"  height="36px"> 
 <img src="https://www.python.org/static/opengraph-icon-200x200.png"  height="36px">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" height="36px"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  height="36px"> 
