@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </details>
 <br>
 
-[![@garg_mitul28 Holopin board](https://holopin.me/garg_mitul28)](https://holopin.io/@garg_mitul28)
+[![@garg_mitul28's Holopin board](https://holopin.me/garg_mitul28)](https://holopin.io/@garg_mitul28)
 
 ## 🛠 Tech Stack
 <!-- BLOG-POST-LIST:START -->
