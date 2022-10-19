@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <details open>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargmitul28&hide_border=true" />
 </details>
+[![@garg_mitul28's Holopin board](https://holopin.me/garg_mitul28)](https://holopin.io/@garg_mitul28)
 <br>
 
 ## 🛠 Tech Stack
